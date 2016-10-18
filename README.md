@@ -20,6 +20,7 @@ Instructions:
 - ID#
 - github username:
 - Heroku app deplyment link:
+- Estimation of hours I worked on it:
 
 You can also add here comments and wishes from the course.
 
